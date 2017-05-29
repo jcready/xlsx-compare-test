@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+  <sheetPr codeName="Export_201605"/>
+  <dimension ref="A1:C5"/>
+  <sheetViews>
+    <sheetView workbookViewId="0"/>
+  </sheetViews>
+  <sheetData>
+    <row r="1">
+      <c r="A1" t="str">
+        <v>Export</v>
+      </c>
+      <c r="B1" t="str">
+        <v>value</v>
+      </c>
+      <c r="C1" t="str">
+        <v>comment</v>
+      </c>
+    </row>
+    <row r="2">
+      <c r="A2" t="str">
+        <v>a1</v>
+      </c>
+      <c r="B2">
+        <v>23</v>
+      </c>
+      <c r="C2" t="str">
+        <v>he,llo</v>
+      </c>
+    </row>
+    <row r="3">
+      <c r="A3" t="str">
+        <v>a2</v>
+      </c>
+      <c r="B3">
+        <v>24</v>
+      </c>
+      <c r="C3" t="str">
+        <v>2,345.56</v>
+      </c>
+    </row>
+    <row r="4">
+      <c r="A4" t="str">
+        <v>a3</v>
+      </c>
+      <c r="B4">
+        <v>256</v>
+      </c>
+      <c r="C4" t="str">
+        <v>&quot;rahul,raj&quot;</v>
+      </c>
+    </row>
+    <row r="5">
+      <c r="A5" t="str">
+        <v>a6</v>
+      </c>
+      <c r="B5">
+        <v>0.00068</v>
+      </c>
+      <c r="C5">
+        <v>-0.56799999999999995</v>
+      </c>
+    </row>
+  </sheetData>
+</worksheet>
